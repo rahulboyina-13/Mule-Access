@@ -1,0 +1,21 @@
+{
+  "name": "Aarav Sharma",
+  "age": 29,
+  "isEmployed": true,
+  "email": "aarav.sharma@example.com",
+  "skills": ["JavaScript", "Python", "SQL"],
+  "experienceYears": 6,
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India"
+  },
+  "languagesSpoken": ["English", "Hindi", "Telugu"],
+  "remoteWorkEligible": true,
+  "lastLogin": "2025-09-17T15:00:00Z",
+  "profileViews": 1247,
+  "certifications": ["AWS Certified Developer", "Scrum Master"],
+  "githubUsername": "aarav-dev",
+  "preferredIDE": "Visual Studio Code",
+  "newsletterSubscribed": false
+}
